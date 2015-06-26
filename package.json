@@ -1,0 +1,23 @@
+{
+  "name": "language-keyvalue",
+  "version": "0.1.0",
+  "engines": {
+    "atom": ">=0.50.0"
+  },
+  "author": {
+    "name": "Enigma",
+    "email": "theenigmablade@gmail.com"
+  },
+  "description": "Add syntax highlighting to KeyValue files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheEnigmaBlade/atom-language-keyvalue"
+  },
+  "bugs": {
+    "url": "https://github.com/TheEnigmaBlade/atom-language-keyvalue/issues"
+  },
+  "homepage": "https://github.com/TheEnigmaBlade/atom-language-keyvalue",
+  "readmeFilename": "README.md",
+  "readme": "KeyValue Language Support for Atom\n===\n\n\nCommonly used by Valve in the Source and Source 2 engines, and used for DataDriven components.\n\nThis grammar is tailored to the common practices with Source files, including highlighting for values consisting of one or more numbers.",
+  "license": "MIT"
+}

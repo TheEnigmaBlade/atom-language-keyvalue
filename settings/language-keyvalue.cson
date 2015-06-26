@@ -1,0 +1,5 @@
+'.source.lua':
+  'editor':
+    'commentStart': '//'
+    'increaseIndentPattern': '\\{\\s*$'
+    'decreaseIndentPattern': '^\\s*\\}.*$'

@@ -1,0 +1,7 @@
+'.source.keyvalue':
+  'comment':
+    'prefix': '//'
+    'body': '// ${0:comment...}'
+  'block':
+    'prefix': 'block'
+    'body': '"${0:BlockName}"\n\{\n\t${1:content}\n\}'
