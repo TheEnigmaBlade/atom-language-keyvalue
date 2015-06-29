@@ -1,6 +1,6 @@
 {
   "name": "language-keyvalue",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "engines": {
     "atom": ">=0.50.0"
   },
@@ -11,7 +11,7 @@
   "description": "Add syntax highlighting to KeyValue files",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheEnigmaBlade/atom-language-keyvalue"
+    "url": "https://github.com/TheEnigmaBlade/atom-language-keyvalue.git"
   },
   "bugs": {
     "url": "https://github.com/TheEnigmaBlade/atom-language-keyvalue/issues"
